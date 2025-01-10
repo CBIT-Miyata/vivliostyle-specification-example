@@ -1,5 +1,5 @@
 <div class="top-page">
-  <img src="./images/logo.png" class="logo" />
+  <img src="../images/logo.png" class="logo" />
   <div class="title">
     <div class="title-headline">設計書</div>
     <div class="title-main">
