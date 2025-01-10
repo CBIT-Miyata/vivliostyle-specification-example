@@ -1,0 +1,19 @@
+{
+  "@context": [
+    "https://schema.org",
+    "https://www.w3.org/ns/pub-context"
+  ],
+  "type": "Book",
+  "conformsTo": "https://github.com/vivliostyle/vivliostyle-cli",
+  "name": "sample-book",
+  "author": "Keisuke Miyata <k.miyata@cbit.co.jp>",
+  "dateModified": "2025-01-10T08:37:04.556Z",
+  "readingOrder": [
+    {
+      "url": "sample_doc.html",
+      "name": "改訂履歴 "
+    }
+  ],
+  "resources": [],
+  "links": []
+}

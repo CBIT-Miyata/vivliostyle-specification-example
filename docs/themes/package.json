@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@vivliostyle/theme-academic": "file:../../themes/project-theme"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "sample-book",
+  "description": "sample-book",
+  "version": "0.0.0",
+  "author": "Keisuke Miyata <k.miyata@cbit.co.jp>",
+  "scripts": {
+    "build": "vivliostyle build",
+    "preview": "vivliostyle preview",
+    "watch:scss": "npx sass --watch --no-source-map themes/project-theme:themes/project-theme"
+  },
+  "dependencies": {
+    "@vivliostyle/cli": "latest"
+  },
+  "license": "MIT license",
+  "private": true,
+  "devDependencies": {
+    "sass": "^1.83.1"
+  }
+}
