@@ -7,7 +7,7 @@
   "conformsTo": "https://github.com/vivliostyle/vivliostyle-cli",
   "name": "sample-book",
   "author": "Keisuke Miyata <k.miyata@cbit.co.jp>",
-  "dateModified": "2025-01-10T08:56:57.119Z",
+  "dateModified": "2025-01-11T05:16:04.759Z",
   "readingOrder": [
     {
       "url": "sample_doc.html",

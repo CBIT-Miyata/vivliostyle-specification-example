@@ -41,5 +41,12 @@ npm run watch:scss
 `themes\project-theme\theme.scss` を編集してください。  
 `npm run preview` と合わせて使用することで、リアルタイムでスタイルの変更を確認できます。
 
+## 補足
+
+### `<!-- omit in toc -->` について
+`<!-- omit in toc -->` は、目次に表示させたくない箇所を指定するためのコメントです。
+本プロジェクトでは `Markdown All in One` というVSCodeの拡張機能を使用し、目次を自動生成しています。
+目次に表示させたくない箇所がある場合は、このコメントを使用することで目次の自動生成から除外することができます。
+
 ## トップページのロゴについて
 [こちらのロゴメーカーを使用させていただきました](https://www.shopify.com/jp/tools/logo-maker)
